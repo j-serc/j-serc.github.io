@@ -1,4 +1,4 @@
-# Virtual  Software Engineering Research Community Conference
+# SENGRC: the  Software Engineering Research Community Conference
 
 ## Co-Editors-in-Chief
 
@@ -8,8 +8,9 @@
 
 ## Manifesto
 
-The Virtual Software Engineering Research Community Conference
-(VSERC) provides an international forum for the publication of high-quality scholarly articles and artefacts in all areas of software engineering. All published papers and artefacts are freely available online. Thus, JSER is a diamond access journal with no article processing costs (APC) for authors and no access costs for readers.
+The Software Engineering Research Community Conference
+(SENGRC) is a virtual an international forum for the 
+recognition of high-quality scholarly articles and artefacts in all areas of software engineering. All published papers and artefacts are freely available online. Thus, JSER is a diamond access journal with no article processing costs (APC) for authors and no access costs for readers.
 
 We are a continuing series, submission dates every two months:
 
@@ -27,11 +28,11 @@ accept=False can be submitted (at the authors' discretion).
 
 ## Process
 
-- VSERC is a trusted preprint review team.
-- VSERC works in partnership  with print venues (e.g. journals).
+- SENGRC is a trusted preprint review team.
+- SENGRC works in partnership  with print venues (e.g. journals).
   - We offer fast review times (2 months or less)
     and they offer publication.
-  - Meanwhile, the pre-prints accpted  by VSERC are available
+  - Meanwhile, the pre-prints accpted  by SENGRC are available
     on-line, so the community can access high quality research
     results, very quickly.
 
@@ -44,7 +45,7 @@ accept=False can be submitted (at the authors' discretion).
   along with the reviews generated here.
 - That venues then accepts that paper (in just a few days),
   based  on our reviews.
-- VSERC reviews small to medium sized papers (4 to 20 pages).
+- SENGRC reviews small to medium sized papers (4 to 20 pages).
   Papers can be a traditional report of a research reesult i
   but also vision statements, errrata, a tools tutorial,
   a statement of research direction, etc.
@@ -57,7 +58,7 @@ accept=False can be submitted (at the authors' discretion).
     edits are then reviwed by our editorial board.
 - Authors then send us the pair (paper, criteria). 
 
-## Why VSERC?
+## Why SENGRC?
 
 “Be the change we wish to see in the world.” --Gandi.
 
