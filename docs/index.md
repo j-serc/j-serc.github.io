@@ -1,4 +1,4 @@
-# Vritual  Software Engineering Research Community Conference
+# Virtual  Software Engineering Research Community Conference
 
 ## Co-Editors-in-Chief
 
