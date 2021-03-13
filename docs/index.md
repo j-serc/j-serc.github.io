@@ -1,4 +1,4 @@
-# Journal of the Software Engineering Research Community
+# Vritual  Software Engineering Research Community Conference
 
 ## Co-Editors-in-Chief
 
@@ -8,17 +8,30 @@
 
 ## Manifesto
 
-The Journal of the Software Engineering Research Community
-(JSERC) provides an international forum for the publication of high-quality scholarly articles and artefacts in all areas of software engineering. All published papers and artefacts are freely available online. Thus, JSER is a diamond access journal with no article processing costs (APC) for authors and no access costs for readers.
+The Virtual Software Engineering Research Community Conference
+(VSERC) provides an international forum for the publication of high-quality scholarly articles and artefacts in all areas of software engineering. All published papers and artefacts are freely available online. Thus, JSER is a diamond access journal with no article processing costs (APC) for authors and no access costs for readers.
 
+We are a continuing series, submission dates every two months:
+
+- First day of even months: submission;
+- Last day of even months:
+if papers have not attracted two reviewers,
+they are
+are returned to authors so that they can change the paper and/or
+submit elsewhere.
+- Last day of odd months:
+papers are marked accept=True or accept=False
+by last day of the odd month). 
+  -  Papers that marked
+accept=False can be submitted (at the authors' discretion).
 
 ## Process
 
-- JSERC is a trusted preprint review team.
-- JSERC works in partnership  with print venues (e.g. journals).
+- VSERC is a trusted preprint review team.
+- VSERC works in partnership  with print venues (e.g. journals).
   - We offer fast review times (2 months or less)
     and they offer publication.
-  - Meanwhile, the pre-prints accpted  by JSERC are available
+  - Meanwhile, the pre-prints accpted  by VSERC are available
     on-line, so the community can access high quality research
     results, very quickly.
 
@@ -31,7 +44,7 @@ The Journal of the Software Engineering Research Community
   along with the reviews generated here.
 - That venues then accepts that paper (in just a few days),
   based  on our reviews.
-- JSERC reviews small to medium sized papers (4 to 20 pages).
+- VSERC reviews small to medium sized papers (4 to 20 pages).
   Papers can be a traditional report of a research reesult i
   but also vision statements, errrata, a tools tutorial,
   a statement of research direction, etc.
@@ -44,7 +57,7 @@ The Journal of the Software Engineering Research Community
     edits are then reviwed by our editorial board.
 - Authors then send us the pair (paper, criteria). 
 
-## Why JSERC?
+## Why VSERC?
 
 “Be the change we wish to see in the world.” --Gandi.
 
